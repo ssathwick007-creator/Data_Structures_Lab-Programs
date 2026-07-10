@@ -1,3 +1,8 @@
+
+
+//Binary search by using iteration method
+
+
 /*#include<stdio.h>
 int main(){
     int i, n, target, a[100];
@@ -37,6 +42,12 @@ int main(){
         }
         return 0;
     }*/
+
+
+
+    
+
+// Binary search by using recursion method
 
 #include<stdio.h>
 int binarysearch(int a[], int low, int high, int target){
